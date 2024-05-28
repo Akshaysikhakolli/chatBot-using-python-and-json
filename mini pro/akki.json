@@ -1,0 +1,161 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "text": "What is Python?",
+            "answer": "Python is a popular high-level programming language that is used for web development, scientific computing, data analysis, artificial intelligence, and more."
+        },
+        {
+            "id": 2,
+            "text": "What are the benefits of using Python?",
+            "answer": "Python is known for its simplicity, readability, and ease of use. It has a large community of developers, a vast library of pre-built modules, and is cross-platform compatible."
+        },
+        {
+            "id": 3,
+            "text": "What is PEP 8?",
+            "answer": "PEP 8 is a style guide for Python code. It provides guidelines for formatting, naming conventions, and programming practices to ensure that code is consistent and easy to read."
+        },
+        {
+            "id": 4,
+            "text": "What are variables in Python?",
+            "answer": "Variables in Python are used to store data values. They can be assigned values of different types, such as strings, numbers, or booleans, and can be used throughout the program to store and manipulate data."
+        },
+        {
+            "id": 5,
+            "text": "What is a function in Python?",
+            "answer": "A function in Python is a block of code that performs a specific task. Functions can be defined with parameters and can return values. They are used to modularize code and make it easier to read and maintain."
+        },
+        {
+            "id": 6,
+            "text": "What is object-oriented programming in Python?",
+            "answer": "Object-oriented programming (OOP) is a programming paradigm that focuses on creating objects that have properties and methods. In Python, everything is an object, which means that OOP principles can be used to create reusable and maintainable code."
+        },
+        {
+            "id": 7,
+            "text": "What is the difference between a list and a tuple?",
+            "answer": "A list is a collection of elements that can be modified, while a tuple is a collection of elements that is immutable. Lists are defined with square brackets and tuples are defined with parentheses."
+        },
+        {
+            "id": 8,
+            "text": "What is a dictionary in Python?",
+            "answer": "A dictionary in Python is a collection of key-value pairs. It is defined with curly braces and each key-value pair is separated by a colon. Dictionaries are used to store and retrieve data based on a specific key."
+        },
+        {
+            "id": 9,
+            "text": "What is a module in Python?",
+            "answer": "A module in Python is a file containing Python definitions and statements. It can be imported into other Python programs and used to provide additional functionality or to modularize code."
+        },
+        {
+            "id": 10,
+            "text": "What is pip in Python?",
+            "answer": "Pip is a package manager for Python that is used to install and manage Python packages. It is used to install packages from the Python Package Index (PyPI) and other sources."
+        },
+        {
+            "id": 11,
+            "text": "What is virtualenv in Python?",
+            "answer": "Virtualenv is a tool used to create isolated Python environments. It allows you to install packages without affecting the system Python installation or other virtual environments."
+        },
+        {
+            "id": 12,
+            "text": "What is a decorator in Python?",
+            "answer":"hii"
+        },
+        {
+            "id": 13,
+            "text": "What is your name?",
+            "answer": "My name is Chatbot."
+        },
+        {
+            "id": 14,
+            "text": "How old are you?",
+            "answer": "I was created in 2021, so I am still very young!"
+        },
+        {
+            "id": 15,
+            "text": "What can you do?",
+            "answer": "I can answer questions about Python programming."
+        },
+        {
+            "id":16,
+            "text":"Hi, how are you doing?",
+            "answer":"I'm doing well, thank you for asking. How about you?"
+        },
+        {
+            "id":17,
+            "text":"What's your favorite color?",
+            "answer":" As an AI language model, I don't have personal preferences, but I'm programmed to recognize and describe colors if you'd like me to!"
+        },
+        {
+            "id":18,
+            "text":"What's your favorite food?",
+            "answer":"As an AI language model, I don't have the ability to eat or taste food, but I can provide information and descriptions about different types of cuisine if you're curious!"
+        },
+        {
+            "id":19,
+            "text":"What's the weather like today?",
+            "answer":"I'm sorry, I don't have access to real-time weather data, but I can tell you about the weather in different locations and at different times based on historical data."
+        },
+        {
+            "id":20,
+            "text":"hii",
+            "answer":"hello,what can i do"
+        },
+        {
+            "id":21,
+            "text":"What do you like to do for fun?",
+            "answer":"As an AI language model, I don't have personal interests, but I enjoy helping people with their questions and learning about new topics!"
+        },
+        {
+            "id":22,
+            "text":"what the squareroot of 144",
+            "answer":"the square of 144 is 12."
+        },
+        {
+            "id":23,
+            "text":"What can you do?",
+            "answer":"I can answer questions, provide information, and assist with tasks."
+        },
+        {
+            "id":24,
+            "text":"How are you feeling today?",
+            "answer":" As an AI, I don't have feelings, but I'm always ready to assist you!"
+        },
+        {
+            "id":25,
+            "text":"Can you tell me a joke?",
+            "answer":"Why did the tomato turn red? Because it saw the salad dressing!"
+        },
+        {
+            "id":26,
+            "text":" What's the capital of France?",
+            "answer":"The capital of France is Paris."
+        },
+        {
+            "id":27,
+            "text":"What can you do?",
+            "answer":" I can answer questions, provide information, and assist with tasks. Just let me know what you need help with!"
+        },
+        {
+            "id":28,
+            "text":"How are you?",
+            "answer":"I'm a chatbot, so I don't have feelings in the traditional sense. But I'm here to help you with whatever you need!"
+        },
+        {
+            "id":29,
+            "text":" What's the meaning of life?",
+            "answer":"That's a deep question! Many people have different opinions on what the meaning of life is. What do you think it is?"
+        },
+        {
+            "id":30,
+            "text":"byee",
+            "answer":"Have a nice day."
+        },
+        {
+            "id":31,
+            "text":"ok",
+            "answer":"Any more to ask."
+        }
+        
+        
+    ]
+}
